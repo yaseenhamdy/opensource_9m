@@ -1,2 +1,8 @@
 *** hello
+<<<<<<< HEAD
 changed in master 
+=======
+dummy 1
+dummy 2
+dummy 3 
+>>>>>>> 9674c7c (squashed 3 commits)
